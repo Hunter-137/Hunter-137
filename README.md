@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi everyone 👋
+- Beginner frontend developer
+- Love sweet
+- Contact me https://t.me/Hunter_137
+- <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=<github nickname>&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **Hunter-137/Hunter-137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
