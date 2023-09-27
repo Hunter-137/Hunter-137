@@ -10,7 +10,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter-137&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm_pink&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### And some time management in coding 🌱
 
+<a href="https://wakatime.com/@e96c5083-e8d4-4db9-ba39-96140a0f1916?style=social"><img src="https://wakatime.com/badge/user/e96c5083-e8d4-4db9-ba39-96140a0f1916.svg" alt="Total time coded since Sep 27 2023" /></a>
 
 <!--
 
