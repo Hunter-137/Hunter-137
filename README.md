@@ -12,7 +12,7 @@
 
 ### Stats from CodeWars
 
-https://www.codewars.com/users/rsschool_7ab3c381b8a1f995/badges/large
+[![codewars](https://www.codewars.com/users/rsschool_7ab3c381b8a1f995/badges/large)](https://www.codewars.com/users/rsschool_7ab3c381b8a1f995)   
 
 ### And some time management in coding 🌱
 
