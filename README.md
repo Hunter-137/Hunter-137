@@ -6,9 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=Hunter-137&style=flat-square&color=blue" alt=""/>
 </div>
 
-### My young stats 😄
+### My young stats on GitHub 😄
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter-137&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm_pink&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Stats from CodeWars
+
+https://www.codewars.com/users/rsschool_7ab3c381b8a1f995/badges/large
 
 ### And some time management in coding 🌱
 
