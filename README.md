@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi everyone! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 - Beginner frontend developer
 - Love sweet
 - Contact me https://t.me/Hunter_137
