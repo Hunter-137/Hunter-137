@@ -20,24 +20,43 @@
   </h1> 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47i103t69duyytl5m10a8yzkfm1du0tlhdujqqjwis&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
-<img src="gitartwork.svg" alt="animation"/>
+---
 
-- Beginner frontend developer
-- Love sweet
-- Contact me https://t.me/Hunter_137
+### :man_technologist: About Me :
+I am a novice Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+- :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
+
+- :seedling: Learning JavaScript. Then, according to plan, study typescript and react.
+
+- :zap: I'm looking for my first job in IT industry.
+
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Hunter_137)
+
+---
+<div align="center">
+  <img src="gitartwork.svg" alt="animation"/>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" logo title="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" title="HTML5" logo width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" logo title="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" logo title="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" logo title="Visual Studio Code" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hunter-137&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm_pink&show_icons=true" alt="git" logo title="Git"/>
+<img src="https://www.codewars.com/users/Skill_Hunter/badges/large" alt="git" logo title="Git"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-137&layout=compact&theme=vision-friendly-dark" logo title="Git"/>
 
 
-### My young stats on GitHub 😄
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter-137&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm_pink&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Stats from CodeWars 🌱
-
-[![codewars](https://www.codewars.com/users/Skill_Hunter/badges/large)](https://www.codewars.com/users/Skill_Hunter)   
-
-
-
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hunter-137&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
