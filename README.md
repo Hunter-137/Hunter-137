@@ -1,3 +1,5 @@
+<img src="gitartwork.svg" alt="animation"/>
+
 ### Hi everyone! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 - Beginner frontend developer
 - Love sweet
