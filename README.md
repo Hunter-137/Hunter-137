@@ -34,6 +34,8 @@ I am a novice Frontend Developer<img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: I'm looking for my first job in IT industry.
 
+- :bookmark_tabs: Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/ab79231bff0b280ed00039ed1f647a5a654a6b)
+
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Hunter_137)
 
 ---
