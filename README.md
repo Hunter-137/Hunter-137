@@ -57,8 +57,6 @@ I am a novice Frontend Developer<img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hunter-137&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=calm_pink&show_icons=true" alt="git" logo title="Git"/>
 <img src="https://www.codewars.com/users/Skill_Hunter/badges/large" alt="git" logo title="Git"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-137&layout=compact&theme=vision-friendly-dark" logo title="Git"/>
 
 
