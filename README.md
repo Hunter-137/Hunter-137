@@ -55,6 +55,7 @@ I am a novice Frontend Developer<img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" logo title="Visual Studio Code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" logo title="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" logo title="Gitlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="drupal" logo title="Drupal" width="40" height="40"/>
 </div>
 
 ---
