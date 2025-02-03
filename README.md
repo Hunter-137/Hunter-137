@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a novice Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+I am a Junior React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
 
 - :seedling: Learning JavaScript, React, Redux Toolkit. Then, according to plan, study Typescript.
