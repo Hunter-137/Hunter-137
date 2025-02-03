@@ -30,9 +30,9 @@
 I am a novice Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
 
-- :seedling: Learning JavaScript. Then, according to plan, study typescript and react.
+- :seedling: Learning JavaScript, React, Redux Toolkit. Then, according to plan, study Typescript.
 
-- :zap: I work at Ax Technology from April 1, 2024 to the present day.
+- :zap: I worked at Ax Technology from April 1, 2024 to January 15, 2025.
 
 - :bookmark_tabs: ~~Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/ab79231bff0b280ed00039ed1f647a5a654a6b)~~
 
