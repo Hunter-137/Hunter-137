@@ -34,7 +34,7 @@ I am a Junior React Frontend Developer<img src="https://media.giphy.com/media/WU
 
 - :zap: I worked at Ax Technology from April 1, 2024 to January 15, 2025.
 
-- :bookmark_tabs: ~~Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/ab79231bff0b280ed00039ed1f647a5a654a6b)~~
+- :bookmark_tabs: Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/b0cb1136ff0e74315a0039ed1f5977314a5838)
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Hunter_137)
 
