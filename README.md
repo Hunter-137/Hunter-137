@@ -51,7 +51,11 @@ I am a Junior React Frontend Developer<img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" logo title="CSS3" width="40" height="40"/>
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="scss" logo title="scss" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" logo title="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" logo title="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux-toolkit" logo title="Redux-Toolkit" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" logo title="TypeScript" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/2386673?s=48&v=4" alt="gsap" logo title="The Green Sock Animation Platform" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" alt="swiperJs" logo title="SwiperJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" logo title="Visual Studio Code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" logo title="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" logo title="Gitlab" width="40" height="40"/>
