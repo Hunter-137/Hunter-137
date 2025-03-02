@@ -54,6 +54,7 @@ I am a Junior React Frontend Developer<img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" logo title="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux-toolkit" logo title="Redux-Toolkit" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" logo title="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" logo title="Vite" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/2386673?s=48&v=4" alt="gsap" logo title="The Green Sock Animation Platform" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" alt="swiperJs" logo title="SwiperJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" logo title="Visual Studio Code" width="40" height="40"/>
