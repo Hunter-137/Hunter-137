@@ -30,9 +30,9 @@
 I am a Junior React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
 
-- :seedling: Learning JavaScript, React, Redux Toolkit. Then, according to plan, study Typescript.
+- :seedling: Learning JavaScript, React, Redux Toolkit, Typescript.
 
-- :zap: I worked at Ax Technology from April 1, 2024 to January 15, 2025.
+- :zap: I worked at Ax Technology from January 2024 to March 2025.
 
 - :bookmark_tabs: Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/b0cb1136ff0e74315a0039ed1f5977314a5838)
 
