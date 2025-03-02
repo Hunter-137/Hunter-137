@@ -60,6 +60,7 @@ I am a Junior React Frontend Developer<img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" logo title="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" logo title="Gitlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="drupal" logo title="Drupal" width="40" height="40"/>
+  <img src="https://cdn1.plesk.com/wp-content/uploads/2017/05/27012542/plesk_logo_primary_positive_.jpg" alt="plesk" logo title="Plesk" width="40" height="40"/>
 </div>
 
 ---
