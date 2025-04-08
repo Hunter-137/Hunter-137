@@ -53,6 +53,7 @@ I am a React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" logo title="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" logo title="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux-toolkit" logo title="Redux-Toolkit" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="zustand" logo title="Zustand" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" logo title="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" logo title="Vite" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/2386673?s=48&v=4" alt="gsap" logo title="The Green Sock Animation Platform" width="40" height="40"/>
