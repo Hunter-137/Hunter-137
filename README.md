@@ -30,11 +30,13 @@
 I am a React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
 
-- :seedling: Learning JavaScript, React, Redux Toolkit, Zustand, Typescript.
+- :seedling: Learning JavaScript, React, Next, Redux Toolkit, Zustand, Typescript.
 
-- :zap: I worked at Ax Technology from January 2024 to March 2025.
+- :zap: My work experience:
+  - January 2024 - March 2025 — Ax Technology 
+  - April 2025 - Present — Ascensio System (ONLYOFFICE)
 
-- :bookmark_tabs: Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/b0cb1136ff0e74315a0039ed1f5977314a5838)
+- :bookmark_tabs: ~~Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/b0cb1136ff0e74315a0039ed1f5977314a5838)~~
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Hunter_137)
 
