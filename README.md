@@ -33,8 +33,8 @@ I am a React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpO
 - :seedling: Learning JavaScript, React, Next, Redux Toolkit, Zustand, Typescript.
 
 - :zap: My work experience:
-  - January 2024 - March 2025 — Ax Technology 
-  - April 2025 - Present — Ascensio System (ONLYOFFICE)
+  - March 2023 - March 2025 — Ax Technology 
+  - April 2025 - June 2026 — Ascensio System (ONLYOFFICE)
 
 - :bookmark_tabs: ~~Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/b0cb1136ff0e74315a0039ed1f5977314a5838)~~
 
