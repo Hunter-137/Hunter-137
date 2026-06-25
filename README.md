@@ -36,8 +36,6 @@ I am a React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpO
   - March 2023 - March 2025 — Ax Technology 
   - April 2025 - June 2026 — Ascensio System (ONLYOFFICE)
 
-- :bookmark_tabs: ~~Check out my CV: [Head Hunter](https://tashkent.hh.uz/resume/b0cb1136ff0e74315a0039ed1f5977314a5838)~~
-
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Hunter_137)
 
 ---
