@@ -28,7 +28,9 @@
 
 ### :man_technologist: About Me :
 I am a React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
-- :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
+- :zap: My work experience:
+  - March 2023 - March 2025 — Ax Technology 
+  - April 2025 - June 2026 — Ascensio System (ONLYOFFICE)
 
 - :seedling: Skills:
   - Core Development: JavaScript · TypeScript · React · Next.js · ES6 · React Router · Redux Toolkit · Zustand · 
@@ -36,14 +38,12 @@ Tanstack Query (React Query) · React Hook Form · Zod / Yup · i18next
   - UI/UX & Style: HTML5 · CSS3 · SCSS / Sass · CSS Modules · Tailwind CSS · styled-components · Material UI · Figma ·
 UI Kit · Adaptive layout
   - Animation: GSAP · SwiperJS · Lenis · CSS-animations · Framer Motion
-Architecture & Build: Vite · Webpack · Gulp · FSD · SPA · SSR · PWA · Module Federation · Storybook
-Server-Side & APIs: Node.js · Nodemailer · REST API · GraphQL · Axios · MySQL
-Tools: Git · GitHub · GitLab · ESLint · Prettier · Drupal · Plesk
-AI-integration: OpenAI API · Algolia · ElevenLabs API · Summarize AI
+  - Architecture & Build: Vite · Webpack · Gulp · FSD · SPA · SSR · PWA · Module Federation · Storybook
+  - Server-Side & APIs: Node.js · Nodemailer · REST API · GraphQL · Axios · MySQL
+  - Tools: Git · GitHub · GitLab · ESLint · Prettier · Drupal · Plesk
+  - AI-integration: OpenAI API · Algolia · ElevenLabs API · Summarize AI
 
-- :zap: My work experience:
-  - March 2023 - March 2025 — Ax Technology 
-  - April 2025 - June 2026 — Ascensio System (ONLYOFFICE)
+- :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Hunter_137)
 
