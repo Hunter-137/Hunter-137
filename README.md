@@ -30,7 +30,7 @@
 I am a React Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: Has successfully completed The Rolling Scopes School [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/0sq29rl7)
 
-- :seedling: Learning JavaScript, React, Next, Redux Toolkit, Zustand, Typescript.
+- :seedling: Stack: JavaScript, Typescript, React, Next, Redux Toolkit, Zustand, Tanstack Query.
 
 - :zap: My work experience:
   - March 2023 - March 2025 — Ax Technology 
